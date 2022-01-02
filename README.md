@@ -1,2 +1,2 @@
-# Data-Clean-And-Visualisation
-## Some project using python for data cleansing and visualisation
+# Data-Cleaning And Data -Manipulation
+## Some project using python for data cleansing and data manipulation
